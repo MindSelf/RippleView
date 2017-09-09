@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="RippleView">
+        <attr name="rv_color" format="color"/>
+        <attr name="rv_alpha" format="integer"/>
+        <attr name="rv_duration" format="integer"/>
+        <attr name="rv_initial_radius" format="integer"/>
+    </declare-styleable>
+</resources>
